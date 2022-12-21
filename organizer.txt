@@ -1,0 +1,5 @@
+name,E_mail,password,organizer_ID
+NTA,nta@gmail.com,nta@365,1100
+ICAR,icar@gmail.com,icar@1980,1101
+UGC,ugc@gmail.com,ugc@963,1102
+MLT,mlt@gmail.com,mlt@248,1103

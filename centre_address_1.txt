@@ -1,0 +1,14 @@
+pincode,city
+321612,Ahmedabad
+386770,Raipur
+397840,Chandigarh
+401265,Faridabad
+407600,Secunderabad
+410880,Indore
+418224,Gwalior
+464822,Patna
+474206,Gwalior
+496420,Bangalore
+501511,Hyderabad
+523164,Mumbai
+540600,Lucknow

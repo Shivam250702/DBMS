@@ -1,0 +1,13 @@
+city,state
+Ahmedabad,Gujarat
+Bangalore,Karnataka
+Chandigarh,Punjab
+Faridabad,Haryana
+Gwalior,"Madhya Pradesh"
+Hyderabad,Telangana
+Indore,"Madhya Pradesh"
+Lucknow,"Uttar Pradesh"
+Mumbai,Maharashtra
+Patna,Bihar
+Raipur,Chattisgarh
+Secunderabad,Telangana

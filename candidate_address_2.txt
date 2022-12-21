@@ -1,0 +1,22 @@
+city,state
+Ahmedabad,Gujarat
+Ara,Bihar
+Bangalore,Karnataka
+Bhopal,"Madhya Pradesh"
+Chandigarh,Punjab
+Chennai,"Tamil Nadu"
+Delhi,Delhi
+Gwalior,Madhya_Pradesh
+Hyderabad,Telangana
+Indore,Madhya_Pradesh
+Jaipur,Rajasthan
+Jamshedhpur,Jharkhand
+Kanpur,Uttar_Pradesh
+Lucknow,"Uttar Pradesh"
+Mumbai,Maharashtra
+Patna,Bihar
+Pune,Maharashtra
+Raipur,Telangana
+Shillong,Mehgalaya
+Sringar,"Jammu and Kashmir"
+Warangal,Telangana

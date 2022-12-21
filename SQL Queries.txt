@@ -1,0 +1,17 @@
+Q1)     select count(candidate.candidate_ID) as Total_Qualified
+from candidate,result_1,result_2_1,result_2_2
+where candidate.candidate_ID=result_1.candidate_ID
+ and result_1.total_marks=result_2_1.total_marks
+ and result_2_1.percentage=result_2_2.percentage 
+ and status='Q' and Examination_year=2020;
+Q2) select centre.centre_ID,capacity,No_of_Invigilator,
+centre.pincode,centre_address_1.city,state from centre 
+natural join centre_address_1 natural join centre_address_2 
+where No_of_invigilator>20;
+Q3) select first_name,last_name,gender,E_mail,Examination_year,Aadhar_no 
+from candidate where candidate_ID in 
+( select candidate_ID from examination_details 
+where slot='Morning(9-12)' and date="2020/1/21");
+Q4) select * from candidate_address_2
+ where city like '%pur%';
+Q5) select first_name,last_name,No_of_correct_answers from candidate,response where candidate.candidate_ID=response.candidate_ID and No_of_correct_answers between 30 and 45
