@@ -2,4 +2,4 @@ Q1) π first_name,last_name,city,state(σ state='Madhya Pradesh'(candidate ⨝ c
 Q2) π candidate_ID(σ No_of_correct_answers≥30 and No_of_wrong_answers≤17(response))
 Q3) πfirst_name,last_name,candidate_ID(σgender='Female'(candidate))-πfirst_name,last_name,candidate_ID(σtotal_marks≥100(candidate⨝result_1))
 Q4) πfirst_name,last_name(σinvigilator.organizer_id=1100(invigilator))∪πfirst_name,last_name(σinvigilator.organizer_id=1102(invigilator))
-Q5) π first_name,last_name,total_marks,percentage(σ status='Q'(((candidate ⨝result_1)⨝result_2_1)⨝result_2_2))
+Q5) π first_name,last_name,total_marks,percentage(σ status='Q'(((candidate ⨝result_1)⨝result_2_1)⨝result_2_2));
